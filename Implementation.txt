@@ -1,0 +1,3 @@
+Each user is given 250 credits to begin with.
+Upoading a paper adds 100 credits to the user's balance. Depending on the section's or community's activity on this paper and on other works are used to fluctuate the credit flow within the user's credit balance.
+More details coming soon
